@@ -1,4 +1,4 @@
-Design and code for a LoRaWAN The Things Network mapper unit
+#Design and code for a LoRaWAN The Things Network mapper unit
 
 This unit sends GPS coordinates to the Things Network via LoRa WAN ([using a Heltec ESP32 LoRa v3 board](https://heltec.org/project/wifi-lora-32-v3/))
 
